@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: January 9, 2026**
+**Last Updated: February 1, 2026**
 
 Daily Diary (hereinafter referred to as "the App") respects the privacy of our users and is committed to protecting personal information. This Privacy Policy explains what information the App collects and how it is used.
 
@@ -53,11 +53,19 @@ If you do not wish to receive personalized ads based on your advertising ID, you
 
 ## 5. Data Deletion
 
-### When You Uninstall the App
-Uninstalling the App will delete all diary data stored on your device.
+### 5.1 Deleting Data Within the App
+You can delete individual diary entries within the App. Deleted diary data is permanently removed from your device and cannot be recovered.
 
-### Data Export
-The App includes a feature to export diary data. If you wish to backup your data, please export it before uninstalling.
+### 5.2 Deleting All App Data
+You can delete all data from the App using either of the following methods:
+- **Uninstalling the App**: Uninstalling the App will delete all diary data stored on your device.
+- **Clearing App Storage**: Go to Android Settings > Apps > Daily Diary > Storage > Clear Data to delete all app data.
+
+### 5.3 Data Export
+The App includes a feature to export diary data. If you wish to keep your data, please export it before deleting.
+
+### 5.4 Advertising Data Deletion
+Deletion of advertising-related data collected by Google AdMob is subject to Google's privacy policy. Please refer to Section 4 for details.
 
 ## 6. Children's Privacy
 
