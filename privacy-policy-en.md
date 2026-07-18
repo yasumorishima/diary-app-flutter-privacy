@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: February 1, 2026**
+**Last Updated: July 18, 2026**
 
 Daily Diary (hereinafter referred to as "the App") respects the privacy of our users and is committed to protecting personal information. This Privacy Policy explains what information the App collects and how it is used.
 
@@ -14,6 +14,7 @@ The App stores the following information locally on your device:
 - Tag information
 
 **This information is stored only on your device and is NOT sent to external servers.**
+(Only if you enable the optional Google Drive backup feature, your data is also stored in your own Google Drive. See Section 4, "Google Sign-In and Google Drive Backup (Optional)".)
 
 ### 1.2 Automatically Collected Information
 The App may collect the following information for advertising purposes:
@@ -34,6 +35,7 @@ The collected information is used for the following purposes:
 ## 3. Data Storage
 
 - **Diary Data**: Stored only in local storage on your device. The developer and third parties cannot access this data.
+- **Google Drive Backup (Optional)**: If enabled, your diary data is also stored in a dedicated app area (appDataFolder) inside your own Google Drive. Only this App can access that area; the developer cannot access it at all.
 - **Advertising Data**: May be stored on Google AdMob servers.
 
 ## 4. Third-Party Services
@@ -51,6 +53,16 @@ If you do not wish to receive personalized ads based on your advertising ID, you
 - **Android**: Settings > Google > Ads > Opt out of Ads Personalization
 - **iOS**: Settings > Privacy > Tracking > Allow Apps to Request to Track (turn off)
 
+### Google Sign-In and Google Drive Backup (Optional)
+The App offers an optional Google Drive backup feature. When you enable it:
+
+- The App uses Google Sign-In. It accesses only your basic account information (such as your email address, for display) and a dedicated app area in your Google Drive (appDataFolder; scope: drive.appdata).
+- Your diary backup is stored **only in the dedicated app area of your own Google Drive**. It is never sent to the developer’s servers, and the developer cannot read your backup.
+- If you do not use this feature, no Google account is required and your diary data never leaves your device.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
 ## 5. Data Deletion
 
 ### 5.1 Deleting Data Within the App
@@ -64,7 +76,10 @@ You can delete all data from the App using either of the following methods:
 ### 5.3 Data Export
 The App includes a feature to export diary data. If you wish to keep your data, please export it before deleting.
 
-### 5.4 Advertising Data Deletion
+### 5.4 Deleting Your Google Drive Backup
+If you use Google Drive backup, you can delete the backup file from your Drive at any time via Settings > Google Drive Backup > Delete backup in the App. You can also disconnect the App and delete its data from Google Drive settings (Settings > Manage apps).
+
+### 5.5 Advertising Data Deletion
 Deletion of advertising-related data collected by Google AdMob is subject to Google's privacy policy. Please refer to Section 4 for details.
 
 ## 6. Children's Privacy
