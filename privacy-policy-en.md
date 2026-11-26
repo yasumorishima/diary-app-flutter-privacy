@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: July 18, 2026**
+**Last Updated: November 26, 2026**
 
 Daily Diary (hereinafter referred to as "the App") respects the privacy of our users and is committed to protecting personal information. This Privacy Policy explains what information the App collects and how it is used.
 
@@ -23,6 +23,13 @@ The App may collect the following information for advertising purposes:
 - App usage data (ad impressions, etc.)
 
 This information is collected by Google AdMob and used to optimize ad delivery.
+
+### 1.3 Age Signals (Google Play)
+For users in regions where the law requires app stores to share age information (such as California in the United States and Brazil), the App requests an age signal (an age range such as "13-15") from Google Play through the Play Age Signals API when it starts. Whether an age range is shared is decided by your Google Play settings (or, for a supervised account, by the parent).
+
+- The age range we receive is used **only on your device, to adjust ad settings to your age** (see Section 6).
+- The age range is not stored, and it is never sent to the developer's servers or to third parties.
+- Users outside those regions are not asked to share their age.
 
 ## 2. How We Use Information
 
@@ -85,6 +92,8 @@ Deletion of advertising-related data collected by Google AdMob is subject to Goo
 ## 6. Children's Privacy
 
 The App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+
+If an age signal (Section 1.3) shows that a user is under 18, the App tells Google AdMob to treat the user as under the age of consent (and, for users under 13, as child-directed), and limits ad content to what suits their age ("G" for under 13, up to "PG" for ages 13-17). Ads in the App are non-personalized regardless of age.
 
 ## 7. Security
 
