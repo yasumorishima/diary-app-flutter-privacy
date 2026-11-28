@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: January 9, 2026**
+**Last Updated: November 28, 2026**
 
 These Terms of Service (the "Terms") govern your use of Daily Diary (the "App"). By using the App, you agree to be bound by these Terms.
 
@@ -17,7 +17,7 @@ The App is available to users aged 13 and above. Users under 13 must obtain pare
 The App does not require account registration. All data is stored locally on your device.
 
 ### 2.3 Fees
-The App is free to use. However, advertisements will be displayed within the App.
+The App is free to use. No advertisements are displayed within the App.
 
 ## 3. Prohibited Conduct
 
